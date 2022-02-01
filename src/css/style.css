@@ -1,0 +1,227 @@
+body {
+  background: rgba(170, 170, 170, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+header {
+  background: rgba(255, 136, 170, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+main {
+  background: rgba(255, 170, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+article {
+  background: rgba(170, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+section {
+  background: rgba(170, 170, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+aside {
+  background: rgba(170, 255, 170, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+footer {
+  background: rgba(255, 170, 170, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+h4 {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+p {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+div {
+  background: rgba(238, 238, 170, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+ul {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+li {
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+a {
+  background: rgba(85, 170, 221, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+img {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+i {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+span {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+strong {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+big {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+small {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+em {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+ol {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+dl {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+dt {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+dd {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+table {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+tr {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+th {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+td {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+form {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+input {
+  background: rgba(238, 170, 238, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+textarea {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+select {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+option {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+button {
+  background: rgba(238, 153, 238, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+figure {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+figcaption {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+label {
+  background: rgba(170, 238, 238, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+svg {
+  background: rgba(255, 255, 255, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg1 {
+  color: black;
+  background: rgba(255, 99, 71, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg2 {
+  color: black;
+  background: rgba(135, 206, 235, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg3 {
+  color: black;
+  background: rgba(144, 238, 144, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg4 {
+  color: black;
+  background: rgba(210, 180, 140, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
+
+.dbg5 {
+  color: black;
+  background: rgba(255, 182, 193, 0.5);
+  outline: 0.5px solid rgba(0, 0, 0, 0.5);
+}
